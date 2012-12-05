@@ -1,0 +1,19 @@
+name:                hs-edn-parser
+version:             0.1.0.0
+synopsis:            Haskell parser for extensible data notation
+-- description:         
+homepage:            https://github.com/robinbb/hs-edn-parser
+license:             APLv2
+license-file:        LICENSE-2.0.txt
+author:              Robin Bate Boerop
+maintainer:          me@robinbb.com
+-- copyright:           
+category:            Text
+build-type:          Simple
+cabal-version:       >=1.8
+
+library
+  -- exposed-modules:     
+  -- other-modules:       
+  build-depends:       base ==4.5.*
+                       , attoparsec
