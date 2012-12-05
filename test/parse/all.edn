@@ -1,0 +1,11 @@
+{ :nil nil
+  :boolean true
+  :str "blah"
+  :char \x
+  :sym blah
+  :int 1234
+  :float 3.14e+1
+  :list (a 1 "foo")
+  :vec [b 2 "bar"]
+  :set #{c d [1 2 3]}
+}
